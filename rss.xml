@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Audio Doctor]]></title>
         <description><![CDATA[Audio Doctor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/audio-doctor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 01:45:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 18:09:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/audio-doctor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd835761-164f-44a1-ae87-a4f0183ae2f5.jpg">]]></description>
-            <link>undefinedwireless-wonders-meet-your-new-best-friend-and-musical-pal/index.html</link>
+            <link>https://thegrid.ai/audio-doctor/wireless-wonders-meet-your-new-best-friend-and-musical-pal/index.html</link>
             <guid isPermaLink="false">29703518-8f85-4abf-8b85-8965f1826f07</guid>
             <pubDate>Wed, 23 Mar 2016 01:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What's an Audio Doctor, and why you need one?</p>]]></description>
+            <link>https://thegrid.ai/audio-doctor/whats-an-audio-doctor-and-why-you-need-one/index.html</link>
+            <guid isPermaLink="false">b6c0972d-bbae-4ffa-97fc-f63a71779784</guid>
+            <pubDate>Wed, 23 Mar 2016 18:09:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
