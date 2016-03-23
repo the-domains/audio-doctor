@@ -3,33 +3,32 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Wireless Wonders: Product Selection:'
-datePublished: '2016-03-23T05:19:47.988Z'
-dateModified: '2016-03-23T05:19:44.557Z'
+datePublished: '2016-03-23T12:06:18.492Z'
+dateModified: '2016-03-23T12:05:57.625Z'
 title: "We start our musical journey with Naim's remarkable Muso QB a compact high power cube with the famous sound of Naim Audio and a killer app! \_Think of this little wonder as the modern equivilant\_"
 author: []
+sourcePath: _posts/2016-03-23-we-start-our-musical-journey-with-naims-remarkable-muso-qb.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-we-start-our-musical-journey-with-naims-remarkable-muso-qb.md
-published: true
 url: we-start-our-musical-journey-with-naims-remarkable-muso-qb/index.html
 _type: Blurb
 
 ---
 **Wireless Wonders: Product Selection:**
 
-Integrated 0Devialet Phantom vs Naim Muso:
+Integrated Amplifier/Speaker Solutions: Devialet Phantom vs Naim Muso:
 
 From $995-$4,895.00 per room.
 
-We start our musical journey with the amazing sounding, Naim Muso QB This ntains 450 watts of power and multiple speakers, and streams all of your favorite music from Spotify, Tidal, Airplay and more! You can control the QB from any IOS or Android device.  Think of this am
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fbbda9f-c9fe-4c60-be4d-e606a67b80e5.jpg)
+We start our musical journey with the amazing sounding, Naim Muso QB This little metal box contains a surprising amount of power 450 watts  and multiple speakers. The Muso streams all of your favorite music from Spotify, Tidal, Airplay and more! You can control the QB from any IOS or Android device.  Think of this as the modern equvilant of the boom boxes of yore, no a Naim QB won't sound as real as a more exotic and expensive conventional sound system, however, for many users it is a perfect start into the world of high quality sound. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fbbda9f-c9fe-4c60-be4d-e606a67b80e5.jpg)
 
 Well where do we go from here on our musical journey? We can add a second Naim QB for improved stereo separation and more bass, just add a second Naim QB for another $995.00 
 
