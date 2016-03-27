@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "What's an Audio Doctor, and why you need one?"
-datePublished: '2016-03-27T16:12:31.708Z'
-dateModified: '2016-03-27T16:12:04.510Z'
+datePublished: '2016-03-27T16:13:33.714Z'
+dateModified: '2016-03-27T16:12:51.049Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-23-whats-an-audio-doctor-and-why-you-need-one.md
@@ -22,7 +22,7 @@ url: whats-an-audio-doctor-and-why-you-need-one/index.html
 _type: Article
 
 ---
-**What's an Audio Doctor, and why you need one?**
+**[What's an Audio Doctor, and why you need one?][0]**
 
 In today's busy world you deserve some quality, me time. Time to relax with some great music, or to immerse yourself in a great TV show or movie.  Music sets our mood, it is our friend to motivate or inspire us, to pick us up when we are down, to get ourcreative juices flowing. We all love music!
 
@@ -33,3 +33,5 @@ Or you can journey down to your big box retailor with poorly set up displays, an
 Wouldn't it be great to have your own personal  Audio Doctor, someone who can advocate and recommend the perfect solution to bring the joy of music and movies, into your home, someone with a world of experience and a trained ear. Someone who understands what quality is all about!
 
 Welcome to Audio Doctor, your prescription for fun!
+
+[0]: null
