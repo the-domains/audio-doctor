@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Wireless Wonders: Product Selection:'
-datePublished: '2016-03-23T16:45:26.054Z'
-dateModified: '2016-03-23T16:45:08.983Z'
+datePublished: '2016-03-27T15:57:34.773Z'
+dateModified: '2016-03-23T17:52:45.725Z'
 title: "We start our musical journey with Naim's remarkable Muso QB a compact high power cube with the famous sound of Naim Audio and a killer app! \_Think of this little wonder as the modern equivilant\_"
 author: []
 sourcePath: _posts/2016-03-23-we-start-our-musical-journey-with-naims-remarkable-muso-qb.md
