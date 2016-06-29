@@ -1,6 +1,6 @@
 name: Audio Doctor
 favicon: null
-layout_spectrum: 0.82795
+layout_spectrum: 0.80085
 typography_spectrum: 0.84206
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#002f67'
-    - '#29000b'
-    - '#e71900'
-    - '#ffa929'
-    - '#576f00'
-  brandStrength: 0.75
+    - '#ffffff'
+    - '#5b5b5d'
+    - '#05040c'
+    - '#afafaf'
+    - '#a69c03'
+  brandStrength: 0.5625
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.75
